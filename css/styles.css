@@ -487,7 +487,21 @@
  */
 
 /* Globals */
-
+@font-face {
+  font-family: "YuGothic M";
+  src: local("Yu Gothic Medium"),
+       local("Yu Gothic");
+  font-weight: 500;
+}
+p {
+  font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif;  color: #555;
+}
+p {
+    font-size: 100%;
+    color: #333;
+    line-height: 1.7;
+    margin-bottom: 2.2em;
+}
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #555;
