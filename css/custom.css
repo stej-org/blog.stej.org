@@ -15,7 +15,7 @@
        local("Yu Gothic");
   font-weight: 500;
 }
-p {
+body,p,h1,h2,h3,h4,h5,h6 {
   font-family: "游ゴシック体", YuGothic, "YuGothic M", sans-serif;  color: #555;
 }
 p {
